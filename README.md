@@ -1,6 +1,6 @@
 # ATVResearch
 
-Apple TV firmware research and binary analysis toolkit.
+Apple TV firmware research and binary analysis toolkit builded with C++ and Cmake
 
 ATVResearch is a research-oriented command-line toolkit for inspecting firmware archives and Apple binary formats.
 
