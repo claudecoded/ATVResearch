@@ -1,0 +1,39 @@
+# Build directories
+build/
+build-*/
+cmake-build-*/
+
+# IDEs
+.vscode/
+.idea/
+*.user
+*.suo
+
+# macOS
+.DS_Store
+
+# Generated output
+dist/
+out/
+coverage/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Firmware artifacts
+*.ipsw
+*.dmg
+*.img
+*.bin
+*.img4
+*.im4p
+*.zip
+
+# Extracted firmware
+extracted/
+firmware/
+samples/
